@@ -1,0 +1,31 @@
+id: P188A585C
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6168
+  instance_id: http://purl.bdrc.io/resource/IE1KG6168
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བྱང་ཆུབ་ལམ་སྒྲོན་གྱི་འགྲེལ་བ་མར་གྱི་ཉིང་ཁུ།
+  alt_title:
+    zh-hans:
+    - 菩提道炬论释
+  author: http://purl.bdrc.io/resource/P5684
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    f60180ab1c4a43f5b709318b429b70a1:
+      title: པོད ༡་བྱང་ཆུབ་ལམ་སྒྲོན་གྱི་འགྲེལ་བ་མར་གྱི་ཉིང་ཁུ།
+      volume_number: 1
+      base_file: UT1KG6168_I1KG8463_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0472A0F50307FB2E
+      image_group: I1KG8463
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6168
+  - http://purl.bdrc.io/resource/W1KG6168
+  ocr_software: Namsel
+created_at: '2021-12-22T10:57:08.612992'
+last_modified_at: '2021-12-22T10:57:08.612997'
